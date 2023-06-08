@@ -22,4 +22,6 @@ u.print_cards_table(table1)
 for player1 in table1.get_players():
     player1.get_highest_hand()
 
+table1.get_player_winning()
+
 
